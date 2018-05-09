@@ -40,8 +40,24 @@ Dabei gibt es zwei Möglichkeiten eines Spurwechsels:
     Befinden sich am Anfang eines Zuges zwei Spielsteine auf einem Doppelfeld, darf ein Spieler auch am Anfang einen Spurwechsel durchführen und eine der beiden Kugeln auf der parallelen Linie ziehen.
 
 Die Spieler bekommen Punkte, wenn sie mit der gewürfelten Augenzahl genau das jeweils eigene Zielfeld mit einem Spielstein erreichen. 
-In dem Fall dürfen sie den Zählstein auf der Zählleiste um ein Feld nach vorne bewegen. 
+In dem Fall dürfen sie den Zählstein auf der Zählleiste um ein Feld nach vorne bewegen.
 Danach wird der Spielstein aus dem Zielfeld entfernt und auf der gegenüber liegenden Seite des Spielbretts in die innere Mulde des ersten freien Doppelfeldes platziert. Er ist damit wieder im Spiel und kann von beiden Spielern genutzt werden.
 
 Das Spiel endet, wenn ein Spieler sechs Mal mit einem Spielstein sein Zielfeld erreicht und damit als erster mit seinem Wertungsstein im mittleren Wertungsfeld ankommt. Das Spiel endet ebenfalls in dem sehr seltenen Fall, dass ein Spieler nach seinem Würfelwurf keinen Spielstein ziehen kann. 
 In dem Fall endet es unabhängig von der Zählleiste sofort unentschieden (Moksha!).
+
+## Wettkampfregeln
+
+Für einen Wettkampf werden jeweils zwei Runden mit wechselndem Startspieler gespielt und entsprechend gewertet. Wenn der Startspieler seinen Wertungsstein als Erster ins Mittelfeld bringt, darf der Mitspieler noch einen kompletten Zug durchführen. 
+Schafft er es, seinen Wertungsstein dabei auch ins Mittelfeld zu bringen, gewinnt der Spieler, auf dessen Seite des Spielbretts sich mehr Spielsteine befinden. 
+Der Gewinner erhält als Punktzahl die Differenz zwischen der Anzahl Spielsteine auf seiner Seite und der seines Mitspielers. 
+Bei gleich vielen Steinen erhält kein Spieler Punkte und das Spiel endet unentschieden. 
+Befindet sich am Ende des Spiels nur ein Wertungsstein im Mittelfeld, erhält sein Besitzer als Punktzahl die Anzahl der Felder, die der Wertungsstein seines Mitspielers vom Mittelfeld entfernt ist. 
+Bei einem Unentschieden (Moksha!) bekommt jeder Spieler vier Punkte.[1]
+
+## Entwicklung und Rezeption
+
+Das Spiel Samsara wurde von Thomas Weber entwickelt und erschien 2014 zu den Internationalen Spieltagen in Essen bei dem deutschen Spieleverlag und Holzmaufaktur Gerhards Spiel und Design in einer Version aus geöltem Buchenholz mit Glaskugeln sowie in Eichenholz mit Holzkugeln.[2]
+
+Das Spiel wurde in verschiedenen Medien besprochen und bewertet. So beschreibt die Rheinische Post Samsara als Spiel für „Design-Verliebte“ und schreibt, es „sieht einfach schön aus“.[3] 
+Die Westfälischen Nachrichten beschreiben es als eine der „spannendsten Neuerscheinungen auf dem Spielemarkt“ 2014[4] und DerWesten als „kurzweiliges Taktikspiel für zwei Personen“.[5] 
