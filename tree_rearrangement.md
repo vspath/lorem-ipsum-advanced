@@ -44,3 +44,10 @@ unresolved.[1] Tree fusion swaps these two solutions between two otherwise near-
 of the method use standard genetic algorithms with a defined objective function to swap high-scoring 
 subtrees into main trees that are high-scoring overall.[6]
 
+## Sectorial search
+
+An alternative strategy is to detach part of the tree (which can be selected at random, or using a more 
+strategic approach) and to perform TBR/SPR/NNI on this sub-tree. This optimized sub-tree can then be 
+replaced on the main tree, hopefully improving the p-score.[7]
+
+## 
