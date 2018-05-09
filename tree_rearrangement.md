@@ -54,4 +54,8 @@ replaced on the main tree, hopefully improving the p-score.[7]
 
 To avoid entrapment in local optima, a 'simulated annealing' approach can be used, whereby the 
 
-## 
+## Tree fusing
+
+Once a range of equally-optimal trees have been gathered, it is often possible to find a better tree by 
+combining the "good bits" of separate trees. Sub-groups with an identical composition but different 
+topology can be switched and the resultant trees evaluated.[7]
