@@ -60,4 +60,11 @@ Bei einem Unentschieden (Moksha!) bekommt jeder Spieler vier Punkte.[1]
 Das Spiel Samsara wurde von Thomas Weber entwickelt und erschien 2014 zu den Internationalen Spieltagen in Essen bei dem deutschen Spieleverlag und Holzmaufaktur Gerhards Spiel und Design in einer Version aus geöltem Buchenholz mit Glaskugeln sowie in Eichenholz mit Holzkugeln.[2]
 
 Das Spiel wurde in verschiedenen Medien besprochen und bewertet. So beschreibt die Rheinische Post Samsara als Spiel für „Design-Verliebte“ und schreibt, es „sieht einfach schön aus“.[3] 
-Die Westfälischen Nachrichten beschreiben es als eine der „spannendsten Neuerscheinungen auf dem Spielemarkt“ 2014[4] und DerWesten als „kurzweiliges Taktikspiel für zwei Personen“.[5] 
+Die Westfälischen Nachrichten beschreiben es als eine der „spannendsten Neuerscheinungen auf dem Spielemarkt“ 2014[4] und DerWesten als „kurzweiliges Taktikspiel für zwei Personen“.[5]
+
+## Belege
+[1] Spielanleitung Samsara
+[2] Versionen von Samsara in der Spieledatenbank BoardGameGeek (englisch); abgerufen am 9. März 2018.
+[3] "Mensch ärgere Dich nicht" mit Pep. Rheinische Post, 8. Dezember 2014; abgerufen am 9. März 2018.
+[4] Die spannendsten Neuerscheinungen auf dem Spielemarkt für Strategen und Tüftler. Westfälische Nachrichten, 07. Dezember 2014; abgerufen am 9. März 2018.
+[5] Tanja Liebmann: Fünf Spiele-Tipps für Einsteiger, Taktiker und Partyrunden. Der Westen, 17. Oktober 2014; abgerufen am 9. März 2018.
