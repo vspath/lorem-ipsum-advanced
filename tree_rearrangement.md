@@ -50,4 +50,8 @@ An alternative strategy is to detach part of the tree (which can be selected at 
 strategic approach) and to perform TBR/SPR/NNI on this sub-tree. This optimized sub-tree can then be 
 replaced on the main tree, hopefully improving the p-score.[7]
 
+## Tree drifting
+
+To avoid entrapment in local optima, a 'simulated annealing' approach can be used, whereby the 
+
 ## 
