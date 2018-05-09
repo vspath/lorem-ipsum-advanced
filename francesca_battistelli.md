@@ -33,3 +33,8 @@ Mit ihrem dritten Album Hundred More Years stieg Francesca Battistelli im März 
     Be Born In Me (2011)
     Angel By Your Side (2012)
     Holy Spirit (2014) (US: Gold)
+
+
+---
+
+further information: https://de.wikipedia.org/wiki/Francesca_Battistelli
