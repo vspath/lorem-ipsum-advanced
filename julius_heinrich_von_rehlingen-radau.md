@@ -62,3 +62,7 @@ A. Helm, Hellmut Schöner (Hrsg.): Berchtesgaden im Wandel der Zeit. Reprint von
 Anzeiger sowie Karl M. Lipp Verlag, München 1973. S. 100, 106−111, 261–262.
 
 
+# Weblink
+Commons: Julius Heinrich von Rehlingen-Radau – Sammlung von Bildern, Videos und Audiodateien# Weblink
+
+
