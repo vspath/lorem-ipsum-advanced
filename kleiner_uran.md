@@ -9,4 +9,4 @@ Nachdem er die Siedlung städtischen Typs Jasnogorski passiert hat, wendet sich 
 
 Nördlich von Sorotschinsk biegt der Kleine Uran nach Südwesten ab, und erreicht schließlich gegenüber der Siedlung Nikolajewka die Samara.
 
-Der hauptsächlich von Schmelzwasser gespeiste Kleine Uran ist durchschnittlich von Ende November/Anfang Dezember bis in den April hinein gefroren [1]. 
+Der hauptsächlich von Schmelzwasser gespeiste Kleine Uran ist durchschnittlich von Ende November/Anfang Dezember bis in den April hinein gefroren. 
