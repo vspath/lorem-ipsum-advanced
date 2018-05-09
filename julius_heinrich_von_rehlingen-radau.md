@@ -55,14 +55,18 @@ noch als „fürstlich“ und „Reichsstift“, nicht mehr aber als „hochfür
 Grabplatte neben seinem Grabdenkmal in der Stiftskirche in Berchtesgaden.
 
 # Literatur
-Walter Brugger, Heinz Dopsch, Peter F. Kramml: Geschichte von Berchtesgaden: Zwischen Salzburg und Bayern (bis 1594). Plenk, Berchtesgaden 1991, S. 284, 287.
-Manfred Feulner: Berchtesgaden – Geschichte des Landes und seiner Bewohner. Verlag Berchtesgadener Anzeiger, Berchtesgaden 1986 ISBN 3-925647-00-7, S. 163–186.
-A. Helm, Hellmut Schöner (Hrsg.): Berchtesgaden im Wandel der Zeit. Reprint von
+Walter Brugger, Heinz Dopsch, Peter F. Kramml: Geschichte von Berchtesgaden:
+Zwischen Salzburg und Bayern (bis 1594). Plenk, Berchtesgaden 1991, S. 284, 287.
+Manfred Feulner: Berchtesgaden – Geschichte des Landes und seiner Bewohner.
+Verlag Berchtesgadener Anzeiger, Berchtesgaden 1986 ISBN 3-925647-00-7, S.
+163–186.  A. Helm, Hellmut Schöner (Hrsg.): Berchtesgaden im Wandel der Zeit.
+Reprint von
 1929. Verein für Heimatkunde d. Berchtesgadener Landes. Verlag Berchtesgadener
 Anzeiger sowie Karl M. Lipp Verlag, München 1973. S. 100, 106−111, 261–262.
 
 
 # Weblink
-Commons: Julius Heinrich von Rehlingen-Radau – Sammlung von Bildern, Videos und Audiodateien# Weblink
+Commons: Julius Heinrich von Rehlingen-Radau – Sammlung von Bildern, Videos und
+Audiodateien# Weblink
 
 
